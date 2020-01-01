@@ -1,4 +1,4 @@
-INSERT INTO bears (name) values ("Mr. Chocolate")
+INSERT INTO bears (name) VALUES ("Mr. Chocolate")
 insert into bears (name) values ("Rowdy")
 insert into bears (name) values ("Tabitha")
 insert into bears (name) values ("Sergeant Brown")
